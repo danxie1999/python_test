@@ -1,6 +1,0 @@
-#!/usr/bin/env python3
-
-a='ABC'
-b=a
-a='XYZ'
-print(b)
