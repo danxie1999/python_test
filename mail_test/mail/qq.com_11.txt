@@ -1,0 +1,4 @@
+From:博客园系统通知 <register@cnblogs.me>
+To: <570619058@qq.com>
+Subject:博客园博客申请通知
+Text:您好！我们已经收到您的博客开通申请，我们会尽快处理。您可以通过<a href='http://passport.cnblogs.com/GetBlogApplyStatus.aspx'>http://passport.cnblogs.com/GetBlogApplyStatus.aspx</a>随时查询申请审核状态。

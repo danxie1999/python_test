@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Register Success</title>
+</head>
+<body>
+	{% if message %}
+	<p style="color:red">{{message}}</p>
+	{% endif %}
+	<form action="/register/success" method="post">
+		<legend>Please click Signin button to sign in:</legend>
+				<p><button type="submit">SignIn</button></p>
+				</form>
+</body>
+</html>

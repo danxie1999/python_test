@@ -1,0 +1,488 @@
+From:Fitbit <noreply@fitbit.com>
+To: <xiedan1999@163.com>
+Subject:祝贺您赢得直升机勋章！
+part0
+----------------
+ Text:<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email">
+<html xmlns="http://www.w3.org/1999/xhtml?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email">
+<head>
+    <!-- i18nKey lifetime_500_floors -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+        @font-face {
+            font-family: "Proxima Nova Regular";
+            src: url("https://assets.fitbit.com/production/proxima-nova-regular.00e2fc72fb5ef844e5b551084c457860.eot?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email");
+            src: url("https://assets.fitbit.com/production/proxima-nova-regular.00e2fc72fb5ef844e5b551084c457860.eot?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email#iefix") format("embedded-opentype"),
+            url("https://assets.fitbit.com/production/proxima-nova-regular.9b6ce0ea9fc5423658c5fa4cb9e16371.woff?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email") format("woff"),
+            url("https://assets.fitbit.com/production/proxima-nova-regular.d49742d9b24301b494882b0826f16fd6.ttf?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email") format("truetype"),
+            url("https://assets.fitbit.com/production/proxima-nova-regular.58fb66bfe136dd3643b02ca104e34f90.svg?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email#ProximaNovaRegular") format("svg");
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: "Proxima Nova Light";
+            src: url("https://assets.fitbit.com/production/proxima-nova-light.b3a6ef6a985371fdb5230a87195b72f0.eot?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email");
+            src: url("https://assets.fitbit.com/production/proxima-nova-light.b3a6ef6a985371fdb5230a87195b72f0.eot?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email#iefix") format("embedded-opentype"),
+            url("https://assets.fitbit.com/production/proxima-nova-light.0f8fab28d191d821e920190a1bd628e5.woff?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email") format("woff"),
+            url("https://assets.fitbit.com/production/proxima-nova-light.e8f73b338474e1e242b1ace77b1edac3.ttf?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email") format("truetype"),
+            url("https://assets.fitbit.com/production/proxima-nova-light.72558f65d8766f6cdec7f9e7d91a989a.svg?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email#ProximaNovaLight") format("svg");
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: "Proxima Nova SemiBold";
+            src: url("https://assets.fitbit.com/production/proxima-nova-semibold.03502f75fb1138c3ca1a1dfeb53f9514.eot?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email");
+            src: url("https://assets.fitbit.com/production/proxima-nova-semibold.03502f75fb1138c3ca1a1dfeb53f9514.eot?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email#iefix") format("embedded-opentype"),
+            url("https://assets.fitbit.com/production/proxima-nova-semibold.27be2c522244c26d3e28f9178dd891ad.woff?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email") format("woff"),
+            url("https://assets.fitbit.com/production/proxima-nova-semibold.e414f3b027a7c2309b29b4d47a37db68.ttf?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email") format("truetype"),
+            url("https://assets.fitbit.com/production/proxima-nova-semibold.abfff66924902fc53cbfb61461043c70.svg?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email#ProximaNovaBold") format("svg");
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: "Proxima Nova Bold";
+            src: url("https://assets.fitbit.com/production/proxima-nova-bold.f06ba889071475a26f168caee47c5134.eot?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email");
+            src: url("https://assets.fitbit.com/production/proxima-nova-bold.f06ba889071475a26f168caee47c5134.eot?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email#iefix") format("embedded-opentype"),
+            url("https://assets.fitbit.com/production/proxima-nova-bold.b2f62d815f965aade01935cbb09a008a.woff?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email") format("woff"),
+            url("https://assets.fitbit.com/production/proxima-nova-bold.551f74038960ee93bdc3307133f54e1b.ttf?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email") format("truetype"),
+            url("https://assets.fitbit.com/production/proxima-nova-bold.1580de87484f29b8137af930f0a4cdf0.svg?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email#ProximaNovaBold") format("svg");
+            font-weight: normal;
+            font-style: normal;
+        }
+    </style>
+    <title>
+        总共爬了 500 层楼，您赢得了直升机勋章！
+    </title>
+</head>
+<body style="background-color:#f4f4f4;" >
+
+
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+    <tr>
+        <td align="center" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="650" id="emailContainer" style="background-color:#ffffff;" >
+                <tr>
+                    <td align="center" valign="top">
+                        <table>
+                            <tr>
+                                <td>
+                                    <table>
+                                        <tr>
+                                            <td style="width:415px;padding-top:10px;padding-left:20px;" >
+                                                <a href="https://fitbit.com?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" style="text-decoration:none;" >
+                                                    <img  src="https://www.fitbit.com/images/badges_new/email/logo.gif?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" alt="logo" />
+                                                </a>
+                                            </td>
+                                            
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                
+                                
+                                    
+                                
+                                <td background="https://www.fitbit.com/images/badges_new/email/badges_email_bg_new.png?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" bgcolor="#60b2b9" width="650" height="700" valign="top">
+                                    <!--[if gte mso 9]>
+                                    <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:650px;height:896px;" >
+                                        <v:fill type="tile" src="https://www.fitbit.com/images/badges_new/email/badges_email_bg_new.png" color="#60b2b9" />
+                                        <v:textbox inset="0,0,0,0">
+                                    <![endif]-->
+                                    <div>
+                                        <table cellpadding="0" cellspacing="0" align="center">
+                                            <tr>
+                                                <td style="padding-top:64px; text-align: center" align="center">
+                                                    <img src="https://static0.fitbit.com/images/badges_new/300px/badge_lifetime_floors500.png?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" alt="badge image" />
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <table cellpadding="0" cellspacing="0" style="width:560px;text-align: center;" align="center">
+                                                        <tr>
+                                                            <td class="salutation" style="padding-top: 50px;color:#ffffff;font-size:50px;font-family:'Proxima Nova Light','Open Sans',arial,sans-serif;text-align: center">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="achievement" style="color:#ffffff;font-size:50px;font-family:'Proxima Nova Light','Open Sans',arial,sans-serif;text-align: center" align="center">
+                                                                
+                                                                
+                                                                    总共爬了 500 层楼，您赢得了直升机勋章！
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="body" style="color:#ffffff;font-size:20px;padding-top:20px;padding-bottom: 50px; font-family:'Proxima Nova Bold','Open Sans',arial,sans-serif;text-align: center">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    
+                                                </td>
+                                            </tr>
+
+                                        </table>
+
+                                    </div>
+                                    <!--[if gte mso 9]>
+                                    </v:textbox>
+                                    </v:rect>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-family:'Proxima Nova Regular','Open Sans',arial,sans-serif;color:#939c9e;font-size:26px;" >
+                                    <br>
+                                    
+                                        让我们成为朋友<br>
+                                    
+                                    <img src="https://www.fitbit.com/images/badges_new/email/spacer.gif?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" alt="spacer" width="1" height="20"><br>
+
+                                    
+                                    
+                                        <a href="http://www.wechat.com/?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" style="text-decoration:none;color:#939c9e;font-size:22px;" >
+                                            WeChat ID: FitbitChina
+                                        </a>
+                                        <a href="http://weibo.com/fitbitchina?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" style="text-decoration:none;" >
+                                            <img src="https://www.fitbit.com/images/badges_new/email/weibo_icon.png?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" alt="Weibo" height="28" border="0" >
+                                        </a>
+                                    
+                                    <a href="http://blog.fitbit.com/?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" style="text-decoration:none;color:#939c9e;" >
+                                        <span>BLOG</span>
+                                    </a>
+                                    <br>
+                                    <table width="650" valign="top" cellspacing="0" cellpadding="3">
+                                        <tr>
+                                            <td align="center"  class="footer" style="font-family:'Proxima Nova Regular','Open Sans',arial,sans-serif;color:#939c9e;font-size:13px;line-height:normal;" >
+                                                
+                                                    您的 xiedan1999@163.com 信箱收到此电子邮件，是因为您已<br>选择接收新勋章电子邮件。不再感兴趣？
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    
+                                                    <a style="color: #3d94f5; font-weight: bold; text-decoration: none;" href="https://www.fitbit.com/user/profile/updateNotification?utm_source=badgealerts&utm_medium=email&utm_campaign=newbadge&u=5H3QBH&e=xiedan1999%40163.com&t=a7b68dd83e8aa569eddf8ae3394a60aca842a909&s=newBadges&utm_campaign=website&utm_source=sendgrid.com&utm_medium=email">退订。</a>
+                                                
+                                                <br/>
+                                                Fitbit 和 Fitbit 徽标是 Fitbit, Inc. 的注册商标<br/>Fitbit, Inc.– 405 Howard Street, San Francisco, CA 94105 USA。
+                                                <table cellspacing="10" style="font-size:14px;" >
+                                                    <tr>
+                                                        <td align="right" style="text-align:right;" >
+                                                            
+                                                                <a href="https://www.fitbit.com/careers?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" style="color:#939c9e;" >我们正在招聘</a>
+                                                                <img src="https://www.fitbit.com/images/badges_new/email/src_linkarrow_wht.gif?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email" alt="We're Hiring" width="11" height="11">
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <br/>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <img src="https://www.fitbit.com/images/badges_new/email/spacer.gif" alt="spacer" width="1" height="20"><br>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+part1
+----------------
+ Text:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+    
+    
+    
+    
+        
+    
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!-- i18nKey lifetime_500_floors -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+        @font-face {
+            font-family: "Proxima Nova Regular";
+            src: url("https://assets.fitbit.com/production/proxima-nova-regular.00e2fc72fb5ef844e5b551084c457860.eot");
+            src: url("https://assets.fitbit.com/production/proxima-nova-regular.00e2fc72fb5ef844e5b551084c457860.eot#iefix") format("embedded-opentype"),
+            url("https://assets.fitbit.com/production/proxima-nova-regular.9b6ce0ea9fc5423658c5fa4cb9e16371.woff") format("woff"),
+            url("https://assets.fitbit.com/production/proxima-nova-regular.d49742d9b24301b494882b0826f16fd6.ttf") format("truetype"),
+            url("https://assets.fitbit.com/production/proxima-nova-regular.58fb66bfe136dd3643b02ca104e34f90.svg#ProximaNovaRegular") format("svg");
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: "Proxima Nova Light";
+            src: url("https://assets.fitbit.com/production/proxima-nova-light.b3a6ef6a985371fdb5230a87195b72f0.eot");
+            src: url("https://assets.fitbit.com/production/proxima-nova-light.b3a6ef6a985371fdb5230a87195b72f0.eot#iefix") format("embedded-opentype"),
+            url("https://assets.fitbit.com/production/proxima-nova-light.0f8fab28d191d821e920190a1bd628e5.woff") format("woff"),
+            url("https://assets.fitbit.com/production/proxima-nova-light.e8f73b338474e1e242b1ace77b1edac3.ttf") format("truetype"),
+            url("https://assets.fitbit.com/production/proxima-nova-light.72558f65d8766f6cdec7f9e7d91a989a.svg#ProximaNovaLight") format("svg");
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: "Proxima Nova SemiBold";
+            src: url("https://assets.fitbit.com/production/proxima-nova-semibold.03502f75fb1138c3ca1a1dfeb53f9514.eot");
+            src: url("https://assets.fitbit.com/production/proxima-nova-semibold.03502f75fb1138c3ca1a1dfeb53f9514.eot#iefix") format("embedded-opentype"),
+            url("https://assets.fitbit.com/production/proxima-nova-semibold.27be2c522244c26d3e28f9178dd891ad.woff") format("woff"),
+            url("https://assets.fitbit.com/production/proxima-nova-semibold.e414f3b027a7c2309b29b4d47a37db68.ttf") format("truetype"),
+            url("https://assets.fitbit.com/production/proxima-nova-semibold.abfff66924902fc53cbfb61461043c70.svg#ProximaNovaBold") format("svg");
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: "Proxima Nova Bold";
+            src: url("https://assets.fitbit.com/production/proxima-nova-bold.f06ba889071475a26f168caee47c5134.eot");
+            src: url("https://assets.fitbit.com/production/proxima-nova-bold.f06ba889071475a26f168caee47c5134.eot#iefix") format("embedded-opentype"),
+            url("https://assets.fitbit.com/production/proxima-nova-bold.b2f62d815f965aade01935cbb09a008a.woff") format("woff"),
+            url("https://assets.fitbit.com/production/proxima-nova-bold.551f74038960ee93bdc3307133f54e1b.ttf") format("truetype"),
+            url("https://assets.fitbit.com/production/proxima-nova-bold.1580de87484f29b8137af930f0a4cdf0.svg#ProximaNovaBold") format("svg");
+            font-weight: normal;
+            font-style: normal;
+        }
+    </style>
+    <title>
+        总共爬了 500 层楼，您赢得了直升机勋章！
+    </title>
+</head>
+<body style="background-color:#f4f4f4;" >
+
+
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+    <tr>
+        <td align="center" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="650" id="emailContainer" style="background-color:#ffffff;" >
+                <tr>
+                    <td align="center" valign="top">
+                        <table>
+                            <tr>
+                                <td>
+                                    <table>
+                                        <tr>
+                                            <td style="width:415px;padding-top:10px;padding-left:20px;" >
+                                                <a href="http://email.fitbit.com/wf/click?upn=QPstRhSIpStDKGMHqOsHC74-2F9FbtpLev6G3Q-2F3AdcOBdaiSvkn99MPHzp43PfxQGmvsQPzoM0O9yYLwh1YGl-2BCG0kKYLwsLQE3bWfGDFlrWJgqcKuXvG7rdSU53eKza3_51Xq0l4IzYz2qTd8GncBNhw0CB1WYlyWdHA1q38XJEJvPTYY10akKlndhadtBHFfIvZbqCBv-2Fj7lYK2IQneMi5BA3fQnGnKhvrvbXZMxwJ1QMFaFD8nkz6z7cNnDMOH9aLM-2Fauhy0sokltxXJC46sZBWtCyCDJxIVGDjqwMYROkql-2BoWKKTkLl0JMyj1raxPi0vuFbp8Lfg7zElRcNUdeOapw4Y4-2BUQPkAeCIXTr-2BMEoA24r2-2FepVzcP2I4Z0ii-2F" style="text-decoration:none;" >
+                                                    <img  src="https://www.fitbit.com/images/badges_new/email/logo.gif" alt="logo" />
+                                                </a>
+                                            </td>
+                                            
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                
+                                
+                                    
+                                
+                                <td background="https://www.fitbit.com/images/badges_new/email/badges_email_bg_new.png" bgcolor="#60b2b9" width="650" height="700" valign="top">
+                                    <!--[if gte mso 9]>
+                                    <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:650px;height:896px;" >
+                                        <v:fill type="tile" src="https://www.fitbit.com/images/badges_new/email/badges_email_bg_new.png" color="#60b2b9" />
+                                        <v:textbox inset="0,0,0,0">
+                                    <![endif]-->
+                                    <div>
+                                        <table cellpadding="0" cellspacing="0" align="center">
+                                            <tr>
+                                                <td style="padding-top:64px; text-align: center" align="center">
+                                                    <img src="https://static0.fitbit.com/images/badges_new/300px/badge_lifetime_floors500.png" alt="badge image" />
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <table cellpadding="0" cellspacing="0" style="width:560px;text-align: center;" align="center">
+                                                        <tr>
+                                                            <td class="salutation" style="padding-top: 50px;color:#ffffff;font-size:50px;font-family:'Proxima Nova Light','Open Sans',arial,sans-serif;text-align: center">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="achievement" style="color:#ffffff;font-size:50px;font-family:'Proxima Nova Light','Open Sans',arial,sans-serif;text-align: center" align="center">
+                                                                
+                                                                
+                                                                    总共爬了 500 层楼，您赢得了直升机勋章！
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="body" style="color:#ffffff;font-size:20px;padding-top:20px;padding-bottom: 50px; font-family:'Proxima Nova Bold','Open Sans',arial,sans-serif;text-align: center">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    
+                                                </td>
+                                            </tr>
+
+                                        </table>
+
+                                    </div>
+                                    <!--[if gte mso 9]>
+                                    </v:textbox>
+                                    </v:rect>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-family:'Proxima Nova Regular','Open Sans',arial,sans-serif;color:#939c9e;font-size:26px;" >
+                                    <br>
+                                    
+                                        让我们成为朋友<br>
+                                    
+                                    <img src="https://www.fitbit.com/images/badges_new/email/spacer.gif" alt="spacer" width="1" height="20"><br>
+
+                                    
+                                    
+                                        <a href="http://email.fitbit.com/wf/click?upn=kijgdtKYhkTFKZxs0p2dcu4q2CacExpEv9Uicw19jNQL0TAFwNUt3YCTL4NqYVLZKaVaL2KNIhD38XzL76NOFsvuZmzY-2Bdh5ciirUYCqldABSEAro-2FmDjlnuVnd3H3E6_51Xq0l4IzYz2qTd8GncBNhw0CB1WYlyWdHA1q38XJEJvPTYY10akKlndhadtBHFf-2FCxuKDvwaRCKHBadyzn1-2BoNTU5ihVKSFBzK6ZK4NnztHA-2BlnTo1vS3TFdk4ZQJPDjJThUD04jZsII6q5p-2F2Oe8r6QnACxc8EY2W53PIQyQ2PNCZIYy54S2WNsv4xelfyvtQb07mLorsCJ6j0MUWGwLWcI82hVi70ZZic9Dlzgx2ehTGJ37SAfS-2F5EuVJVrL3" style="text-decoration:none;color:#939c9e;font-size:22px;" >
+                                            WeChat ID: FitbitChina
+                                        </a>
+                                        <a href="http://email.fitbit.com/wf/click?upn=m6O8lSGsN-2Fp2w8yB1vlNS6-2BJZD9s0KEM4uPPLwunzI8xdxuAXVTCEbYLf0tgBkE-2BXDyfwYqhqxp6OeUP05NTwjX-2FuhFkEOxDYjp73-2FvxkIWbCiz7wn891lvad50vMolc_51Xq0l4IzYz2qTd8GncBNhw0CB1WYlyWdHA1q38XJEJvPTYY10akKlndhadtBHFf-2BnEUhChE7kK4GDH6vfdbk9wLAutG2-2B-2FVuOtjtefbh4V1loDeTS39gmhm024GahqfUh96fUSVbC9rl396Eem8WG-2BBGyk3VAlsQVyquRFxrqL7J1QnYIkPbVLg8f2DTtOqZY6tfXYlSg7pDPzQZtUxAVOyYvFirlurVXCcBfVfmpW5YwZ63qTImE4Ta-2FLh4Bi0" style="text-decoration:none;" >
+                                            <img src="https://www.fitbit.com/images/badges_new/email/weibo_icon.png" alt="Weibo" height="28" border="0" >
+                                        </a>
+                                    
+                                    <a href="http://email.fitbit.com/wf/click?upn=ioLCDxeKlJtdkTjlVXuzwMDO4VLTPow5pErvvPTxTAAqdHfWviRsSEWxC7PvnYX7-2FIMF6jvd-2FqCJvERIoM-2Faolp-2FDWwIk1sibTXiTU5qXFxp0YxnIJoV4ApIdOBUswoq_51Xq0l4IzYz2qTd8GncBNhw0CB1WYlyWdHA1q38XJEJvPTYY10akKlndhadtBHFf2lpbaltFJly07EvylGrQ2USfscLwuZACs-2FluNMD8KmihNETs9B1E6U1l5HxHtSY9hYeH53ShySXRZeeXgIgaSwmD0pD2PA-2FMPQ-2BV-2F-2FsLF-2FH3I9nx185UTbcv4VlAuPsEifvz02lyuMRrDCfD-2Ba3-2BndCdgbEKNZbAgv1I96o6BO2jhV99HuDRn-2FBTxxS1xRXJ" style="text-decoration:none;color:#939c9e;" >
+                                        <span>BLOG</span>
+                                    </a>
+                                    <br>
+                                    <table width="650" valign="top" cellspacing="0" cellpadding="3">
+                                        <tr>
+                                            <td align="center"  class="footer" style="font-family:'Proxima Nova Regular','Open Sans',arial,sans-serif;color:#939c9e;font-size:13px;line-height:normal;" >
+                                                
+                                                    您的 xiedan1999@163.com 信箱收到此电子邮件，是因为您已<br>选择接收新勋章电子邮件。不再感兴趣？
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    
+                                                    <a style="color: #3d94f5; font-weight: bold; text-decoration: none;" href="http://email.fitbit.com/wf/click?upn=JdaepEMWjPy6kjhLZ2z9hNVG0ZLw4620WJA77klCgDW80DKKZnqGTGrDbb3GVtolZtZjUKytg-2BnTRFOQFTMSGYJHy-2FKpwsTLUHOPzVtQ1T57KnWIQbiMX7JomM0CYJYzLqUuylHRqr-2FMerdBeLKJ0MI8U79Sx-2FyqM-2BgDcvCZbc4r8W85jMonledzIFXE8dQCh3rTb-2FkNzyZtDbOGos-2F-2FKqVVViBaY4BBM8K2LoPw93oghx2qQXbvPp-2BpnrVpBMIbFGk9AQVrp56rwOY08aaR4xZzG-2BOMELiDsKvnssIy-2FPsyDDNqQU8I-2FIgwpiTkGZ3-2BtheyYj7hfCMsFFmQlCxpa837thq7yHC31c2ndOCO2Dc-3D_51Xq0l4IzYz2qTd8GncBNhw0CB1WYlyWdHA1q38XJEJvPTYY10akKlndhadtBHFf06hWO2kgN5hyif-2FIdJJoYcSploCB-2BEydQpXf1qrhPTz9vrZh0esKtNdCpfmhOsJ8VDCFie82iu0R-2FOA86DF3DG-2BjuB89qHdZk7W-2BTcIHWB7JEEgg2idCdCz3uF2OUZ70KrM3Acpp2evbQSSiqPhTOKTun0P2FL4irXef9e-2FjKYniMzoTr5ieP7sezeJ4h3zU">退订。</a>
+                                                
+                                                <br/>
+                                                Fitbit 和 Fitbit 徽标是 Fitbit, Inc. 的注册商标<br/>Fitbit, Inc.– 405 Howard Street, San Francisco, CA 94105 USA。
+                                                <table cellspacing="10" style="font-size:14px;" >
+                                                    <tr>
+                                                        <td align="right" style="text-align:right;" >
+                                                            
+                                                                <a href="http://email.fitbit.com/wf/click?upn=JdaepEMWjPy6kjhLZ2z9hJFLH-2Bu-2FD5-2BFDssE1yJHgwaqT4WN6e9kyGM7oCupL-2FyEq43Lj55-2FwiV8z-2BfPJUKe1j-2B6QQ-2FzLPk6mc-2FOZK-2BQBdVsr180jSYRBhFTAZAdW-2BVOfBwQDom2pKDoZtE309mj7A-3D-3D_51Xq0l4IzYz2qTd8GncBNhw0CB1WYlyWdHA1q38XJEJvPTYY10akKlndhadtBHFfWFHzFhsE02CGLdWXBPNvuuM2WetaK849Z5LI6OB7Xo2JIcnaq1LGsKZCnMQMywGkf73OtUga-2F1ueYBKvhaIz99mIPswxAhMO0Icz31nPurfQ7rJjM-2F4tahqoN-2Fk0laHEGLJdZz3LE0p3KSvx4vsMeR6RhDMjwxTUZoJaSqu0TdKmotF4op4XyZIg1-2ByJ4w0h" style="color:#939c9e;" >我们正在招聘</a>
+                                                                <img src="https://www.fitbit.com/images/badges_new/email/src_linkarrow_wht.gif" alt="We're Hiring" width="11" height="11">
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <br/>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <img src="https://www.fitbit.com/images/badges_new/email/spacer.gif" alt="spacer" width="1" height="20"><br>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<img src="http://email.fitbit.com/wf/open?upn=51Xq0l4IzYz2qTd8GncBNhw0CB1WYlyWdHA1q38XJEJvPTYY10akKlndhadtBHFflva79TQXzDC1FMwxUG79Obf0A5fJOX-2B3qQgKW-2Fhp53ZxzvlXX35pePlqZjNzalXm5SZ5aBZrf0YkgpiIp5vlq4Du01i12mLJN8NF521dTBBejKOrFoXfp7z5WMdobPbW4KMkag5-2BCnrqNpOWc055C99bqn3uOM7W9VB0m1p-2BHcrg78L09PZMko0JkOou64Pv" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+

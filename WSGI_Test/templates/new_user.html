@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>New user</title>
+</head>
+<body>
+	{% if message %}
+	<p style="color:red">{{message}}</p>
+	{% endif %}
+	<form action="/register/{{message}}" method="post">
+		<legend>Please register for the new user:</legend>
+			<p><input name="username"placeholder="Username" value="{{ username }}"></p>
+
+			<p><input name="password"placeholder="Password" type="password"></p>
+				<p><button type="submit">Register</button></p>
+				</form>
+</body>
+</html>

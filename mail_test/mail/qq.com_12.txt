@@ -1,0 +1,4 @@
+From:博客园系统通知 <register@cnblogs.me>
+To: <570619058@qq.com>
+Subject:您的博客申请已批准
+Text:恭喜您！您的博客申请已通过审批，点击下面的链接完成博客注册：<br/><a href="http://www.cnblogs.com/BlogRegister.aspx">http://www.cnblogs.com/BlogRegister.aspx</a>

@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>T20 Send</title>
+</head>
+<body>
+	<form action="/t20_send" method="post">
+		<legend>Please input the T20 string:</legend>
+			<p><input name="t20_string" placeholder="T20_string" style="width:480px;"></p>
+				<p><button type="submit">Send</button></p>
+				</form>
+	{% if message %}
+	<p style="color:red">{{message}}</p>
+	{% endif %}
+
+        {% if Data %}
+        <p style="color:red">{{Data}}</p>
+        {% endif %}
+</body>
+</html>

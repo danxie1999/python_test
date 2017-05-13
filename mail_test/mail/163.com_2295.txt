@@ -1,0 +1,200 @@
+From:京东JD.com <customer_service@jd.com>
+To: <xiedan1999@163.com>
+Subject:您在京东还有待评价的商品哦，发表商品评价即可得京豆！立即评价>
+Text:<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <title>您在京东还有待评价的商品哦，发表商品评价即可得京豆！立即评价&gt;</title>
+ </head> 
+ <body><!-- webmail_open_begin --><table style='display:none;' width='1' height='1'><tr><td> <img width='1' height='1' src='http://dc2.jd.com/auto.php?service=transfer&type=pms&from=dmp&kid=155&klid=88144&gatewayurl=4944789448145313910'> </td></tr></table><!-- webmail_open_end --> 
+  <table width="650" bgcolor="#ffffff" align="center" cellpadding="0" cellspacing="0" border="0"> 
+   <tbody>
+    <tr> 
+     <td width="30"></td> 
+     <td width="590"> 
+      <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+       <tbody>
+        <tr>
+         <td> 
+          <div style="border-bottom: 1px solid #f3f3f3;padding-bottom: 7px;"> 
+           <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+            <tbody>
+             <tr> 
+              <td align="left" valign="middle" class="img-wrapper"> <a href="https://jd.com"> <img src="https://img30.360buyimg.com/mkts/jfs/t2248/285/2558073148/3431/5db1bbac/570e1b69N6d769d37.png" alt="京东" border="0"> </a> </td> 
+              <td width="218" height="69" bgcolor="#FFFFFF" align="right"> <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_2_1494478979549&amp;to=https%3A%2F%2Fcoin.jd.com%2Fbeans%2Fexchange%2Findex.html" target="_blank"> <img src="https://img30.360buyimg.com/mkts/jfs/t5503/144/1594560182/6361/85d6e738/591268dfN15f484fa.gif" border="0" style=" color:#005aa0; font-size:16px; font-weight:bold;"> </a> </td> 
+             </tr> 
+            </tbody>
+           </table> 
+          </div> </td>
+        </tr> 
+        <tr>
+         <td height="8"></td>
+        </tr> 
+        <tr>
+         <td> 
+          <table align="right" cellpadding="0" cellspacing="0" border="0"> 
+           <tbody>
+            <tr>
+             <td> </td> 
+             <td width="15"></td> 
+             <td align="right"> <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_3_1494478979549&amp;to=https%3A%2F%2Fhome.jd.com%2F" style="font-size: 13px; text-decoration: none;"><font color="#333">我的京东</font></a> </td> 
+             <td width="15"></td> 
+             <td align="right" class="img-wrapper"> <img src="https://img30.360buyimg.com/mkts/jfs/t2062/226/2562165748/471/60b56cb4/570e1b71N5d3e2e89.png" width="23" height="11" border="0"> </td> 
+             <td width="5"></td> 
+             <td align="right"> <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_4_1494478979549&amp;to=https%3A%2F%2Fvip.jd.com%2F" style="font-size: 13px; text-decoration: none;"> <font color="#333">京东会员</font> </a> </td> 
+             <td width="15"></td> 
+             <td align="right" class="img-wrapper"> <img src="https://img30.360buyimg.com/mkts/jfs/t2296/85/2552784635/659/95c6496/570e294dNd610fc70.png" width="19" height="15" border="0"> </td> 
+             <td width="5"></td> 
+             <td align="right"> <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_5_1494478979549&amp;to=https%3A%2F%2Fi-mkt.jd.com%2Fsubscribe%2Findex%3Ftoken%3D6r1NIa0HEOBhChH3XCN8do7p8%252FoykVq%252BC4r6IMXDdFfQsSZxtfyRW0%252F6%252BzH8yyenaDdNgMj3xqQH3KiweLRBIQsMIWzzn6gf" style="font-size: 13px; text-decoration: none;"> <font color="#333">退订投诉</font> </a> </td> 
+            </tr> 
+           </tbody>
+          </table> </td>
+        </tr> 
+        <tr>
+         <td height="20"></td>
+        </tr> 
+       </tbody>
+      </table> </td> 
+     <td width="30"></td> 
+    </tr> 
+   </tbody>
+  </table>
+  <table width="650" align="center" style="margin: 0 auto;" bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" border="0"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <table width="545" align="center" style="margin: 0 auto;" cellpadding="0" cellspacing="0" border="0"> 
+       <tbody> 
+        <tr>
+         <td height="35"></td>
+        </tr> 
+        <tr> 
+         <td> 
+          <center>
+           <font style="font-size: 34px;color:#2f2e2e;">评价商品，领京豆</font>
+          </center> </td> 
+        </tr> 
+        <tr>
+         <td height="20"></td>
+        </tr> 
+        <tr> 
+         <td> <font style="color:#a7a7a7;font-size: 25px;line-height: 40px;">最近购买的商品用起来还舒心吗？分享一下使用感受吧，还有京豆送哦！</font> </td> 
+        </tr> 
+        <tr> 
+         <td> <font style="color:#a7a7a7;font-size: 19px;line-height: 30px;">订单（不含退换货）完成后评价商品奖励京豆有效期为3个月，请尽快评价哦。</font> </td> 
+        </tr> 
+        <tr>
+         <td height="10"></td>
+        </tr> 
+        <tr> 
+         <td> 
+          <table width="545" cellpadding="0" cellspacing="0" border="0">
+           <tbody> 
+            <tr> 
+             <td width="55"></td> 
+             <td class="img-wrapper"> 
+              <center> 
+               <img src="https://img30.360buyimg.com/mkts/jfs/t1900/98/1928162023/16194/ac671f77/568b2266N4bab2ba5.png" width="284" height="184" alt="Star" border="0"> 
+              </center> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+        </tr> 
+        <tr>
+         <td height="40"></td>
+        </tr> 
+        <tr> 
+         <td class="img-wrapper"> <img src="https://img30.360buyimg.com/mkts/jfs/t2224/252/2110721852/4130/a7a33029/56a827ecNae7327b9.png" width="545" height="28" alt="评价" border="0"> </td> 
+        </tr> 
+        <tr>
+         <td height="30"></td>
+        </tr> 
+        <tr> 
+         <td style="text-align: center"> 
+          <table width="545" cellpadding="0" cellspacing="0" border="0"> 
+           <tbody> 
+            <tr> 
+             <td align="center" class="img-wrapper"> <a target="_blank" href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_6_1494478979549&amp;to=https%3A%2F%2Fclub.jd.com%2FmyJdcomments%2FmyJdcomments.action"> <img style="border-radius: 50%;border:2px solid #dbdbdb;" src="https://img10.360buyimg.com/n2/jfs/t3154/23/6016536465/443158/da5b1b71/58983c47N4a736990.jpg" width="105" height="105" alt="【京东超市】云蕾 沐浴花 泡泡爽高级浴花 浴球 10724" border="0"> </a> </td> 
+             <td align="center" class="img-wrapper"> <a target="_blank" href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_7_1494478979549&amp;to=https%3A%2F%2Fclub.jd.com%2FmyJdcomments%2FmyJdcomments.action"> <img style="border-radius: 50%;border:2px solid #dbdbdb;" src="https://img10.360buyimg.com/n2/jfs/t2476/112/1200654410/380757/eb576b3b/564be79fN49c8d2ff.jpg" width="105" height="105" alt="【京东超市】芳草地 点断式加厚垃圾袋 45*50cm*125只 5卷装   3G5965" border="0"> </a> </td> 
+             <td align="center" class="img-wrapper"> <a target="_blank" href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_8_1494478979549&amp;to=https%3A%2F%2Fclub.jd.com%2FmyJdcomments%2FmyJdcomments.action"> <img style="border-radius: 50%;border:2px solid #dbdbdb;" src="https://img10.360buyimg.com/n2/jfs/t4831/221/2413769343/580773/fa52a5d/58fee699Ne5f3dff6.jpg" width="105" height="105" alt="【京东超市】双汇 清伊坊 清真食品 火腿肠  午餐牛肉风味罐头 340g  " border="0"> </a> </td> 
+             <td align="center" class="img-wrapper"> <a target="_blank" href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_9_1494478979549&amp;to=https%3A%2F%2Fclub.jd.com%2FmyJdcomments%2FmyJdcomments.action"> <img style="border-radius: 50%;border:2px solid #dbdbdb;" src="https://img10.360buyimg.com/n2/jfs/t2710/6/1689796614/176347/e49c915d/574649a5N8e4c4f93.jpg" width="105" height="105" alt="【京东超市】农心 方便面 辛拉面 香菇牛肉口味 120g*5袋 五连包" border="0"> </a> </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+        <tr>
+         <td height="50"></td>
+        </tr> 
+        <tr> 
+         <td> 
+          <table width="545" cellpadding="0" cellspacing="0" border="0"> 
+           <tbody> 
+            <tr> 
+             <td bgcolor="fa5f50" align="center" height="70" style="border-radius: 5px"> <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_10_1494478979549&amp;to=https%3A%2F%2Fclub.jd.com%2FmyJdcomments%2FmyJdcomments.action" target="_blank" style="text-decoration: none;display:block;"> <font color="ffffff" style="font-size: 28px;">立即评价</font> </a></td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+        </tr> 
+        <tr>
+         <td height="60"></td>
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <table width="650" align="center" cellpadding="0" cellspacing="0" border="0"> 
+   <tbody> 
+    <tr> 
+     <td width="30"></td> 
+     <td width="590"> 
+      <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+       <tbody> 
+        <tr> 
+         <td height="20" width="100%"></td> 
+        </tr> 
+        <tr> 
+         <td class="img-wrapper"> <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_11_1494478979549&amp;to=https%3A%2F%2Fxinren.jd.com%2F" target="_blank"> <img src="https://img30.360buyimg.com/mkts/jfs/t3706/333/70193838/30400/f007cbfc/57fdff50N46efcec3.jpg" alt="新人大礼包" width="295" height="112" border="0"> </a> </td> 
+         <td class="img-wrapper"> <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_12_1494478979549&amp;to=https%3A%2F%2Fvip.jd.com%2F" target="_blank"> <img src="https://img30.360buyimg.com/mkts/jfs/t1906/272/2398494430/7363/461b1129/5703231dN8d51b07b.png" alt="京东会员" width="295" height="112" border="0"> </a> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+     <td width="30"></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <table width="650" align="center" cellpadding="0" cellspacing="0" border="0"> 
+   <tbody> 
+    <tr> 
+     <td width="30"></td> 
+     <td width="590"> 
+      <table width="590" cellpadding="0" cellspacing="0" border="0"> 
+       <tbody>
+        <tr> 
+         <td height="1" width="100%" style="border-bottom: 1px solid #f3f3f3;"></td> 
+        </tr> 
+        <tr> 
+         <td height="15" width="100%"></td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <table align="center" width="590" border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <font style="font-size:12px; line-height:22px" color="#5b5b5b"> 您之所以收到这封邮件，是因为您曾经注册成为京东的用户。<br> 本邮件由京东系统自动发出，请勿直接回复！ <br>如果您不愿意继续接收到此类邮件，请点击<a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_13_1494478979549&amp;to=https%3A%2F%2Fi-mkt.jd.com%2Fsubscribe%2Findex%3Ftoken%3D6r1NIa0HEOBhChH3XCN8do7p8%252FoykVq%252BC4r6IMXDdFfQsSZxtfyRW0%252F6%252BzH8yyenaDdNgMj3xqQH3KiweLRBIQsMIWzzn6gf">退订本类邮件</a>。 <br> 在购物中遇到任何问题，请点击 <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_14_1494478979549&amp;to=https%3A%2F%2Fhelp.jd.com%2F">帮助中心</a>。<br> 如果您有任何疑问或建议，请<a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_15_1494478979549&amp;to=https%3A%2F%2Fwww.jd.com%2Fcontact%2F" target="_blank">联系我们</a>。<br> 京东JD.com是专业的综合性网上购物商城。百万种商品，家用电器、手机数码、服装、电脑、母婴、化妆、图书等十几大类。京东承诺：所售商品100％正品行货，全国联保，机打发票，价格更实惠；支持货到付款，送货上门及POS刷卡服务！ </font> </td> 
+        </tr> 
+        <tr> 
+         <td height="20"></td> 
+        </tr> 
+        <tr> 
+         <td align="center"> <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_16_1494478979549&amp;to=https%3A%2F%2Fwww.jd.com" target="_blank"><img src="https://img30.360buyimg.com/mkts/jfs/t2647/348/389326428/3737/bf495eca/570f5c31N512207cd.png" width="138" height="20" border="0" alt="京东商城" style=" margin-top:5px;"></a> <br> <a href="http://dc2.jd.com/auto.php?service=transfer&amp;type=pms&amp;from=dmp&amp;kid=155&amp;klid=88144&amp;gatewayurl=4944789448145313910_default_17_1494478979549&amp;to=https%3A%2F%2Fwww.jd.com" style="font-size: 12px;text-decoration: none" target="_blank"> <font color="#323335"> Copyright ©2004-2017 京东JD.com 版权所有 </font> </a> </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+     <td width="30"></td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </body>
+</html>

@@ -1,0 +1,25 @@
+missing module named resource - imported by posix, C:\python_test\gui_v3.py
+missing module named posix - imported by os, C:\python_test\gui_v3.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\python_test\gui_v3.py
+missing module named ce - imported by os, C:\python_test\gui_v3.py
+missing module named readline - imported by cmd, code, pdb, C:\python_test\gui_v3.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\python_test\gui_v3.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\python_test\gui_v3.py
+missing module named _winreg - imported by platform, C:\python_test\gui_v3.py
+missing module named _scproxy - imported by urllib.request
+missing module named 'org.python' - imported by pickle, xml.sax
+missing module named java - imported by platform, C:\python_test\gui_v3.py
+missing module named 'java.lang' - imported by platform, C:\python_test\gui_v3.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\python_test\gui_v3.py
+missing module named termios - imported by tty, C:\python_test\gui_v3.py, getpass
+missing module named grp - imported by shutil, tarfile, C:\python_test\gui_v3.py
+missing module named _dummy_threading - imported by dummy_threading, C:\python_test\gui_v3.py
+missing module named org - imported by copy, C:\python_test\gui_v3.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, C:\python_test\gui_v3.py, netrc, getpass
+missing module named multiprocessing.Pool - imported by multiprocessing, C:\python_test\gui_v3.py
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection

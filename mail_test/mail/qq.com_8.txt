@@ -1,0 +1,18 @@
+From:Python_test <xiedan1999@163.com>
+To:570619058 <570619058@qq.com>
+Subject:A test for python....
+part0
+----------------
+ Text:<html><body><h1>Hello again</h1><p><img src="cid:0"></p></body></html>
+part1
+----------------
+ Attachment:image/jpg
+From:Python_test <xiedan1999@163.com>
+To:570619058 <570619058@qq.com>
+Subject:A test for python....
+part0
+----------------
+ Text:<html><body><h1>Hello again</h1><p><img src="cid:0"></p></body></html>
+part1
+----------------
+ Attachment:image/jpg
